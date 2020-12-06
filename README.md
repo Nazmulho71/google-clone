@@ -1,3 +1,3 @@
-Site URL: https://clone-3-e9798.web.app/
+## Google Clone
 
-This is a clone of Google made with ReactJS.
+Site URL: https://clone-3-e9798.web.app/
